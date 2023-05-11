@@ -173,7 +173,7 @@ section {
 	display: grid;
 	grid-template-columns: 100vw 100vw;
 
-	border-top: 4em solid gray;
+	border-top: 5em solid white;
 }
 
 section img {
