@@ -138,6 +138,18 @@ h5 {
 
 }
 
+h4 {
+	font-size: 1.5em;
+	font-family:'Rubik', sans-serif;
+	color: black;
+	border-bottom: 5px solid rgb(239, 204, 138);
+	
+}
+
+h6 {
+	font-family:'Rubik', sans-serif;
+}
+
 .image_header {
 	margin-top: -735px;
 }
@@ -173,7 +185,7 @@ section {
 	display: grid;
 	grid-template-columns: 100vw 100vw;
 
-	border-top: 5em solid white;
+	border-top: 6em solid white;
 }
 
 section img {
@@ -252,9 +264,7 @@ p {
 	margin-right: 3.5em;
 }
 
-h4 {
-	margin: 0;
-}
+
 
 /*header,*/
 
