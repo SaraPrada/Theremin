@@ -123,6 +123,44 @@ h1 {
 	font-family:'Rubik', sans-serif;
 }
 
+
+
+h5 {
+	margin-top: -205px;
+	margin-left:0px;
+	display: inline-block;
+	text-align: center;
+	font-size: 1.5em;
+	vertical-align: middle;
+	font-family:'Rubik', sans-serif;
+	color: black;
+	
+
+}
+
+.image_header {
+	margin-top: -735px;
+}
+
+.testo_header {
+	margin-top: -400px;
+}
+
+.citazione {
+	font-size:28px;
+	width: 33%;
+	margin-top: 430px;
+	
+}
+
+img {
+	border-radius: 20px;
+}
+
+
+
+
+
 section {
 	background-color: red;
 	overflow-x: scroll;		
@@ -202,14 +240,7 @@ p {
 
 
 
-h5 {
-	margin-top: -205px;
-	margin-left:0px;
-	display: inline-block;
-	text-align: center;
-	font-size: 1.5em;
-	vertical-align: middle;
-}
+
 
 .sottotitoli:hover {
 	color: rgb(239, 204, 138);
@@ -218,7 +249,7 @@ h5 {
   
 
   .sottotitoli {
-	margin-right: 2.5em;
+	margin-right: 3.5em;
 }
 
 h4 {
