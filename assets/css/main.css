@@ -107,7 +107,12 @@ style="color:black"
 iframe {
 	border-radius: 20px;
 	width: 70%; height: 90%;
-	text-align: center;
+	
+}
+
+.didascalia p {
+	font-size: 14px;
+	margin-bottom: 0;
 }
 
 body {
@@ -211,7 +216,10 @@ section img {
 
 .col_dx {
 	background-color: rgb(239, 204, 138);
+	  
 }
+
+
 
 .col2 {
 	display: grid;
