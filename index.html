@@ -54,8 +54,53 @@
 				<h5 class="sottotitoli" style="margin-left: 660px;"><a href="#sezione1" style="text-decoration:none; color:black; border-bottom: 5px solid rgb(239, 204, 138);">Che cosa è?</a></h5>
 				<h5 class="sottotitoli"><a href="#sezione2" style="text-decoration:none; color:black; border-bottom: 5px solid rgb(239, 204, 138);">Come funziona?</a></h5>
 				<h5 class="sottotitoli"><a href="#sezione3" style="text-decoration:none; color:black; border-bottom: 5px solid rgb(239, 204, 138);">La storia</a></h5>
-				<h5 class="sottotitolo"><a href="#sezione4" style="text-decoration:none; color:black; border-bottom: 5px solid rgb(239, 204, 138);">Cultura popolare</a></h5>
+				<h5 class="sottotitolo"><a href="#sezione6" style="text-decoration:none; color:black; border-bottom: 5px solid rgb(239, 204, 138);">Cultura popolare</a></h5>
 			</div>
+			
+			<script>
+				// Aggiungi un gestore di eventi ai link dei capitoli
+				const chapterLinks = document.querySelectorAll('a[href^="#"]');
+				chapterLinks.forEach(link => {
+				  link.addEventListener('click', smoothScroll);
+				});
+			
+				// Funzione per lo scroll fluido
+				function smoothScroll(event) {
+				  event.preventDefault();
+				  
+				  const targetId = this.getAttribute('href');
+				  const targetPosition = document.querySelector(targetId).offsetTop;
+				  const startPosition = window.pageYOffset;
+				  const distance = targetPosition - startPosition;
+				  const duration = 1000; // Durata dello scroll in millisecondi
+				  let start = null;
+			  
+				  window.requestAnimationFrame(step);
+			  
+				  function step(timestamp) {
+					if (!start) start = timestamp;
+					const progress = timestamp - start;
+					window.scrollTo(0, easeInOutCubic(progress, startPosition, distance, duration));
+					if (progress < duration) window.requestAnimationFrame(step);
+				  }
+				}
+			  
+				// Funzione di easing per lo scroll fluido
+				function easeInOutCubic(t, b, c, d) {
+				  t /= d / 2;
+				  if (t < 1) return c / 2 * t * t * t + b;
+				  t -= 2;
+				  return c / 2 * (t * t * t + 2) + b;
+				}
+			  </script>
+
+
+
+
+
+
+
+
 
 		<div>
 			<p class="citazione">
@@ -265,7 +310,7 @@
 		  
 
 		<!-- --------------------------------------------------------------------- -->
-		<section id="sezione3">
+		<section id="sezione6">
 			<div class="col_sx col2">
 				<div>
 					<h4 class="titolo-sezione" style="width:25%">Cultura popolare</h4>
@@ -308,7 +353,7 @@
 
 		<!-- --------------------------------------------------------------------- -->
 
-		<section id="sezione5">
+		<section id="sezione7">
 			<div class="col_sx col2">
 				<div>
 					<!--<h4 class="titolo-sezione" style="width:14%">La storia</h4>-->
@@ -351,7 +396,7 @@
 		  
 
 		<!-- --------------------------------------------------------------------- -->
-		<section id="sezione5">
+		<section id="sezione8">
 			<div class="col_sx col2">
 				<div>
 					<!--<h4 class="titolo-sezione" style="width:14%">La storia</h4>-->
