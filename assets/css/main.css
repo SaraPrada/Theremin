@@ -213,7 +213,7 @@ section img {
 	padding: 0 6em 0 6em;
 }
 .col_sx {
-	background-color: yellow;
+	background-color: white;
 }
 
 .col_dx {
@@ -240,6 +240,13 @@ section img {
 
 footer {
 	padding: 0 6em 0 6em;
+	border-top: 10em solid white;
+	background-color: rgb(239, 204, 138);
+	margin-bottom: 0em;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: 2em;
+
 }
   
   span {
