@@ -17,7 +17,7 @@ Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di 
 ## Tecnologia usata
 La difficoltà tecnica di questo progetto consiste proprio nel realizzare un layout con due scroll diversi.
 
-```JavaScript
+```css
 section {
 	overflow-x: scroll;
 	display: grid;
