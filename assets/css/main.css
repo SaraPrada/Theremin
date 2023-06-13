@@ -363,7 +363,7 @@ p {
 /*breakpoint: schermi piccoli, larghezza massima 500 pixel*/
 
 
-/*@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 
 	header,
 	section {

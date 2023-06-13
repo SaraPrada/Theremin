@@ -12,10 +12,16 @@ Autore: Sara Prada
 Il progetto consiste nella realizzazione di una ricerca testuale su un oggetto, a scelta dalla lista assegnata, che ha come principale punto di forza l’interazione con le mani. Dopo aver compreso e finalizzato la ricerca e aver creato una struttura di contenuti, il progetto richiedeva l’impaginazione di quest’ultimi all’interno di una pagina web one - scroll, cercando di dare dei rimandi all’oggetto attraverso dettagli estetici e di interazione con lo scopo di valorizzarlo. L’oggetto protagonista di questa ricerca è il Theremin, uno strumento musicale molto particolare grazie al caratteristico tipo di interazione macchina - uomo.
 
 ## Design dell’interfaccia e dell’interazione
-Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di rinviare al Theremin: il colore beige è stato scelto in quanto solitamente lo strumento ha come materiale il legno, l’utilizzo del font e del codice per arrotondare gli angoli delle immagini è dovuto al design tipico del Theremin, morbido e curvo. Infine la scelta di utilizzare due scroll, verticale e orizzontale, ha il motivo preciso di ricordare il tipo di interazione sia sull’asse della “X” che sull’asse della “X”. Oltre a questo l'interazione della pagina ha due modalità di visualizzazione in quanto può anche essere letta anche solo scrollando in verticale oppure andare a destra per leggere o vedere i contenuti extra riguardante il capitolo.
+Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di rinviare al Theremin: il colore beige è stato scelto in quanto solitamente lo strumento ha come materiale il legno. L’utilizzo di un font sinuoso come il Rubik e del codice per arrotondare gli angoli delle immagini è dovuto al design tipico del Theremin, morbido e curvo. La scelta di utilizzare due scroll, verticale e orizzontale, ha il motivo preciso di ricordare il tipo di interazione sia sull’asse della “X” che sull’asse della “X”. Oltre a questo l'interazione della pagina ha due modalità di visualizzazione in quanto può anche essere letta anche solo scrollando in verticale oppure scrollare anche a destra per leggere o vedere i contenuti extra riguardante il capitolo.
 
 ## Tecnologia usata
 La difficoltà tecnica di questo progetto consiste proprio nel realizzare un layout con due scroll diversi.
 
 ```JavaScript
+section {
+	overflow-x: scroll;
+	display: grid;
+	grid-template-columns: 100vw 100vw;
+    border-top: 10em solid white;
+}
 ```
