@@ -24,7 +24,7 @@ Come riferimento progettuale, per la grafica il progetto si è concentrato sul p
 
 
 ## Design dell’interfaccia e dell’interazione
-Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di rinviare al Theremin: il colore beige è stato scelto in quanto solitamente lo strumento ha come materiale il legno. L’utilizzo di un font sinuoso come il Rubik e del codice per arrotondare gli angoli delle immagini è dovuto al design tipico del Theremin, morbido e curvo. La scelta di utilizzare due scroll, verticale e orizzontale, ha il motivo preciso di ricordare il tipo di interazione sia sull’asse della “X” che sull’asse della “Y”. Oltre a questo l’interazione della pagina ha due modalità di visualizzazione in quanto può anche essere letta anche solo scrollando in verticale oppure scrollare anche a destra per leggere o vedere i contenuti extra riguardante il capitolo.
+Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di rinviare al Theremin: il colore beige è stato scelto in quanto solitamente lo strumento ha come materiale il legno. L’utilizzo di un font sinuoso come il "Rubik" e del codice per arrotondare gli angoli delle immagini è dovuto al design tipico del Theremin, morbido e curvo. La scelta di utilizzare due scroll, verticale e orizzontale, ha il motivo preciso di ricordare il tipo di interazione sia sull’asse della “X” che sull’asse della “Y”. Oltre a questo l’interazione della pagina ha due modalità di visualizzazione in quanto può anche essere letta anche solo scrollando in verticale oppure scrollare anche a destra per leggere o vedere i contenuti extra riguardante il capitolo.
 
 ## Tecnologia usata
 La difficoltà tecnica di questo progetto consiste proprio nel realizzare un layout con due scroll diversi.
@@ -49,4 +49,5 @@ La pagina ha un layout costituito da 2 colonne in cui all’interno di quella di
 ```
 ## Target e contesto d’uso
 
-Un ipotetico target del progetto sono gli appassionati di musica e affascinati dal Theremin vogliono saperne di più riguardo ad esso. Esso può essere una introduzione di un museo che da un incipit di tutto quello che riguarda il Theremin per far incuriosire gli utenti e far capir loro cos’è il Theremin.
+Il target di questo progetto comprende musicisti, compositori, appassionati di strumenti musicali, ricercatori e semplici curiosi che desiderano esplorare le possibilità offerte da questo strumento magico. Il contesto d'uso ideale per questa pagina web potrebbe essere quello di un'introduzione interattiva al Theremin, situata all'interno di un museo o di una risorsa online dedicata alla musica e agli strumenti musicali. L'obiettivo principale è quello di catturare l'attenzione degli utenti sin dal primo momento, incuriosendoli e spingendoli a esplorare ulteriormente il Theremin.
+
