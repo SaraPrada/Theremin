@@ -12,7 +12,7 @@ Autore: Sara Prada
 Il progetto consiste nella realizzazione di una ricerca testuale su un oggetto, a scelta dalla lista assegnata, che ha come principale punto di forza l’interazione con le mani. Dopo aver compreso e finalizzato la ricerca e aver creato una struttura di contenuti, il progetto richiedeva l’impaginazione di quest’ultimi all’interno di una pagina web one - scroll, cercando di dare dei rimandi all’oggetto attraverso dettagli estetici e di interazione con lo scopo di valorizzarlo. L’oggetto protagonista di questa ricerca è il Theremin, uno strumento musicale molto particolare grazie al caratteristico tipo di interazione macchina - uomo.
 
 ## Riferimenti progettuali
-Come riferimento progettuale posso dire che graficamente ho preso spunto proprio dal design caratteristico del Theremin, mentre, per il contenuto testuale ho preso spunto da vari siti che mi hanno spiegato molto bene tutta la storia del Theremin e le sue caratteristiche di interazione.
+Come riferimento progettuale, per la grafica il progetto si è concentrato sul prendere spunto proprio dal design caratteristico del Theremin, mentre, per il contenuto testuale ci sono vari siti da cui si è preso spunto per raccontare al meglio la storia del Theremin e delle sue caratteristiche di interazione.
 
 [Rai cultura](https://www.raicultura.it/musica/articoli/2021/04/Il-theremin-24d174af-8cb0-4163-b468-eefd4f7eb41c.html) <br>
 [Emastereted](https://emastered.com/it/blog/how-the-theremin-works)<br>
