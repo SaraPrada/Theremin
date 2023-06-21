@@ -14,13 +14,14 @@ Il progetto consiste nella realizzazione di una ricerca testuale su un oggetto, 
 ## Riferimenti progettuali
 Come riferimento progettuale posso dire che graficamente ho preso spunto proprio dal design caratteristico del Theremin, mentre, per il contenuto testuale ho preso spunto da vari siti che mi hanno spiegato molto bene tutta la storia del Theremin e le sue caratteristiche di interazione.
 
-	<a href="https://emastered.com/it/blog/how-the-theremin-works">Rai cultura</a> <br>
-					<a href="https://emastered.com/it/blog/how-the-theremin-works">Emastereted</a> 
-					<a href="http://www.giorgionecordi.it/theremin/come-e-fatto/">Giorgionecordi</a> <br>
-					<a href="https://it.wikipedia.org/wiki/Theremin">Wikipedia</a> <br>
-					<a href="https://reverb.com/news/the-theremins-century">Reverb</a> <br>
-					<a href="https://www.cineblog.it/post/14-film-che-hanno-usato-il-theremin-nella-colonna-sonora">Cineblog</a> <br>
-					<a href="https://www.rockit.it/articolo/theremin-strumento-musicale">Rockit</a> <br>
+[Rai cultura](https://www.raicultura.it/musica/articoli/2021/04/Il-theremin-24d174af-8cb0-4163-b468-eefd4f7eb41c.html)
+[Emastereted](https://emastered.com/it/blog/how-the-theremin-works)
+[Giorgionecordi](http://www.giorgionecordi.it/theremin/come-e-fatto/)
+[Wikipedia](https://it.wikipedia.org/wiki/Theremin)
+[Reverb](https://reverb.com/news/the-theremins-century)
+[Cineblog](https://www.cineblog.it/post/14-film-che-hanno-usato-il-theremin-nella-colonna-sonora)
+[Rockit](https://www.rockit.it/articolo/theremin-strumento-musicale)
+
 
 ## Design dell’interfaccia e dell’interazione
 Graficamente parlando la pagina web ha piccoli dettagli che hanno il compito di rinviare al Theremin: il colore beige è stato scelto in quanto solitamente lo strumento ha come materiale il legno. L’utilizzo di un font sinuoso come il Rubik e del codice per arrotondare gli angoli delle immagini è dovuto al design tipico del Theremin, morbido e curvo. La scelta di utilizzare due scroll, verticale e orizzontale, ha il motivo preciso di ricordare il tipo di interazione sia sull’asse della “X” che sull’asse della “Y”. Oltre a questo l’interazione della pagina ha due modalità di visualizzazione in quanto può anche essere letta anche solo scrollando in verticale oppure scrollare anche a destra per leggere o vedere i contenuti extra riguardante il capitolo.
