@@ -14,12 +14,12 @@ Il progetto consiste nella realizzazione di una ricerca testuale su un oggetto, 
 ## Riferimenti progettuali
 Come riferimento progettuale posso dire che graficamente ho preso spunto proprio dal design caratteristico del Theremin, mentre, per il contenuto testuale ho preso spunto da vari siti che mi hanno spiegato molto bene tutta la storia del Theremin e le sue caratteristiche di interazione.
 
-[Rai cultura](https://www.raicultura.it/musica/articoli/2021/04/Il-theremin-24d174af-8cb0-4163-b468-eefd4f7eb41c.html)
-[Emastereted](https://emastered.com/it/blog/how-the-theremin-works)
-[Giorgionecordi](http://www.giorgionecordi.it/theremin/come-e-fatto/)
-[Wikipedia](https://it.wikipedia.org/wiki/Theremin)
-[Reverb](https://reverb.com/news/the-theremins-century)
-[Cineblog](https://www.cineblog.it/post/14-film-che-hanno-usato-il-theremin-nella-colonna-sonora)
+[Rai cultura](https://www.raicultura.it/musica/articoli/2021/04/Il-theremin-24d174af-8cb0-4163-b468-eefd4f7eb41c.html) <br>
+[Emastereted](https://emastered.com/it/blog/how-the-theremin-works)<br>
+[Giorgionecordi](http://www.giorgionecordi.it/theremin/come-e-fatto/)<br>
+[Wikipedia](https://it.wikipedia.org/wiki/Theremin)<br>
+[Reverb](https://reverb.com/news/the-theremins-century)<br>
+[Cineblog](https://www.cineblog.it/post/14-film-che-hanno-usato-il-theremin-nella-colonna-sonora)<br>
 [Rockit](https://www.rockit.it/articolo/theremin-strumento-musicale)
 
 
