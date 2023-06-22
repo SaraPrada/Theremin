@@ -53,9 +53,9 @@ Il target di questo progetto comprende musicisti, compositori, appassionati di s
 
 ## Immagini e video
 
-[<img src="assets/immagini-video/1.jpeg" width="300" alt="Foto del progetto 1">]()
+[<img src="assets/immagini-video/1.jpeg" width="100%" alt="Foto del progetto 1">]()
 
-[<img src="assets/immagini-video/2.jpeg" width="300" alt="Foto del progetto 2">]()
+[<img src="assets/immagini-video/2.jpeg" width="100%" alt="Foto del progetto 2">]()
 
-[<img src="assets/immagini-video/3.jpeg" width="300" alt="Foto del progetto 3">]()
+[<img src="assets/immagini-video/3.jpeg" width="100%" alt="Foto del progetto 3">]()
 
