@@ -59,3 +59,7 @@ Il target di questo progetto comprende musicisti, compositori, appassionati di s
 
 [<img src="assets/immagini-video/3.jpeg" width="100%" alt="Foto del progetto 3">]()
 
+
+
+https://github.com/SaraPrada/Theremin/assets/126773878/f6304552-0220-493e-bef0-3f0b6bc907dc
+
