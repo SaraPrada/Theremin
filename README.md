@@ -51,3 +51,11 @@ La pagina ha un layout costituito da 2 colonne in cui all’interno di quella di
 
 Il target di questo progetto comprende musicisti, compositori, appassionati di strumenti musicali, ricercatori e semplici curiosi che desiderano esplorare le possibilità offerte da questo strumento magico. Il contesto d'uso ideale per questa pagina web potrebbe essere quello di un'introduzione interattiva al Theremin, situata all'interno di un museo o di una risorsa online dedicata alla musica e agli strumenti musicali. L'obiettivo principale è quello di catturare l'attenzione degli utenti sin dal primo momento, incuriosendoli e spingendoli a esplorare ulteriormente il Theremin.
 
+## Immagini e video
+
+[<img src="assets/immagini-video/1.jpeg" width="300" alt="Foto del progetto 1">]()
+
+[<img src="assets/immagini-video/2.jpeg" width="300" alt="Foto del progetto 2">]()
+
+[<img src="assets/immagini-video/3.jpeg" width="300" alt="Foto del progetto 3">]()
+
